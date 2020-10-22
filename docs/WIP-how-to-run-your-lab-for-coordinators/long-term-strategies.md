@@ -13,3 +13,6 @@ Knowledge beyond 3-4 years (one PhD student). Ideas for saving the knowlegde abo
 # Long term storage
 
 Storing data after project ends. What needs to be kept? what can be deleted?
+
+# Metadata
+What is needed etc? what should users know?
